@@ -4,7 +4,9 @@
     <types>
         <members>College__c.CollegeCourses__c</members>
         <members>College__c.CollegeOpt2__c</members>
+        <members>College__c.CollegeOpt4__c</members>
         <members>College__c.CollegeOpt__c</members>
+        <members>College__c.CollegeP1__c</members>
         <name>CustomField</name>
     </types>
     <types>
