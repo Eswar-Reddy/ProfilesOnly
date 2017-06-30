@@ -79,6 +79,15 @@
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>CollegeOpt__c</fullName>
+        <externalId>false</externalId>
+        <globalPicklist>GlobalPickListTest1</globalPicklist>
+        <label>CollegeOpt</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
     <label>College</label>
     <nameField>
         <label>College Name</label>

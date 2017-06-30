@@ -3,6 +3,7 @@
     <version>35.0</version>
     <types>
         <members>College__c.CollegeCourses__c</members>
+        <members>College__c.CollegeOpt__c</members>
         <name>CustomField</name>
     </types>
     <types>
