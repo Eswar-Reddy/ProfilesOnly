@@ -80,6 +80,15 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>CollegeOpt2__c</fullName>
+        <externalId>false</externalId>
+        <globalPicklist>GlobalTestValueSet1</globalPicklist>
+        <label>CollegeOpt2</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
         <fullName>CollegeOpt__c</fullName>
         <externalId>false</externalId>
         <globalPicklist>GlobalPickListTest1</globalPicklist>
