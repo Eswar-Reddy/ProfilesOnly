@@ -8,6 +8,8 @@
         <members>AccCls3</members>
         <members>AccCls4</members>
         <members>AccCls5</members>
+        <members>Account1</members>
+        <members>Account1_Test</members>
         <name>ApexClass</name>
     </types>
     <types>
