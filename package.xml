@@ -5,4 +5,8 @@
         <members>AccCls1</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Emp__c.Emp</members>
+        <name>DuplicateRule</name>
+    </types>
 </Package>
