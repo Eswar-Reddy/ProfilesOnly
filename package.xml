@@ -6,6 +6,15 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>College__c.CollegeCourses__c</members>
+        <members>College__c.CollegeOpt2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>College__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Emp__c.Emp</members>
         <name>DuplicateRule</name>
     </types>
