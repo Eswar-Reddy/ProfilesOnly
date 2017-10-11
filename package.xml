@@ -4,13 +4,18 @@
     <types>
         <members>AccCls1</members>
         <members>AccCls2</members>
+        <members>AccCls3</members>
+        <members>AccCls4</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>CustomEmailFolder</members>
         <members>CustomEmailFolder/CustomTemplate1</members>
+        <members>CustomEmailFolder/TextTemplate1</members>
         <members>EMailTemp02</members>
         <members>EMailTemp02/SupportCaseAssignmentNotification</members>
+        <members>EMailTemp02/temp02_1</members>
+        <members>EMailTemp02/temp02_2</members>
         <name>EmailTemplate</name>
     </types>
 </Package>
