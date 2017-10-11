@@ -8,12 +8,5 @@ public class AccCls1{
 //new comments are added for testing
 
 //new changes are done
-//Sample Class added
-//new comments are added for testing
-
-//new changes are done
-//Sample Class added
-//new comments are added for testing
-
-//new changes are done
+//cmt are delted.
 }
