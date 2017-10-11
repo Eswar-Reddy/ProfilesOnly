@@ -6,9 +6,19 @@
         <members>AccCls2</members>
         <members>AccCls3</members>
         <members>AccCls4</members>
+        <members>AccCls5</members>
+        <members>AppCls01</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Ap_PF_test1</members>
+        <members>Ap_PF_test2</members>
+        <members>Ap_PF_test3</members>
+        <members>Ap_PF_test3/test3</members>
+        <members>Ap_PF_test4</members>
+        <members>Ap_PF_test4/test4</members>
+        <members>Ap_PF_test5</members>
+        <members>Ap_PF_test5/test5</members>
         <members>CustomEmailFolder</members>
         <members>CustomEmailFolder/CustomTemplate1</members>
         <members>CustomEmailFolder/TextTemplate1</members>
