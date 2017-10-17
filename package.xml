@@ -7,6 +7,12 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Best_Practice_Service_Dashboards</members>
+        <members>Best_Practice_Service_Dashboards/Agent_Supervisor_Overview</members>
+        <members>Sales_Marketing_Dashboards</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
         <members>ABI/A_B_540x540_jpg.jpg</members>
         <members>ABI/A_C_540x540_jpg.jpg</members>
         <members>ARINFO_Docs</members>
