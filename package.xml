@@ -6,6 +6,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>somepage</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>College__c.CollegeCourses__c</members>
         <members>College__c.CollegeOpt2__c</members>
         <name>CustomField</name>
