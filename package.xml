@@ -21,13 +21,25 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Best_Practice_Service_Dashboards</members>
         <members>Best_Practice_Service_Dashboards/ARDashboard1</members>
         <members>Best_Practice_Service_Dashboards/Agent_Supervisor_Overview</members>
+        <members>Best_Practice_Service_Dashboards/Service_Exec_Overview</members>
+        <members>Best_Practice_Service_Dashboards/Service_KPIs</members>
+        <members>Sales_Marketing_Dashboards</members>
+        <members>Sales_Marketing_Dashboards/Marketing_Executive_Dashboard</members>
+        <members>Sales_Marketing_Dashboards/Sales_Executive_Dashboard</members>
         <name>Dashboard</name>
     </types>
     <types>
+        <members>ABI</members>
         <members>ABI/A_B_540x540_jpg.jpg</members>
         <members>ABI/A_C_540x540_jpg.jpg</members>
+        <members>ABI/newtextdoc.txt</members>
+        <members>Folder25</members>
+        <members>Folder25/Image1.jpg</members>
+        <members>SalesTools</members>
+        <members>SalesTools/Documentation_for_Salesforce_com_Sample_Dashboards.pdf</members>
         <name>Document</name>
     </types>
     <types>
@@ -36,9 +48,20 @@
     </types>
     <types>
         <members>Ap_PF_test1</members>
+        <members>Ap_PF_test3</members>
+        <members>Ap_PF_test3/test3</members>
+        <members>Ap_PF_test4</members>
+        <members>Ap_PF_test4/test4</members>
+        <members>CustomEmailFolder</members>
+        <members>CustomEmailFolder/CustomTemplate1</members>
+        <members>CustomEmailFolder/TextTemplate1</members>
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>QA_Reports</members>
+        <members>QA_Reports/testreport1234</members>
+        <members>Sales_Marketing_Dashboard_Reports</members>
+        <members>Sales_Marketing_Dashboard_Reports/Activities_by_Salesperson</members>
         <members>reportsTest2Folder/testinforeport1</members>
         <name>Report</name>
     </types>
