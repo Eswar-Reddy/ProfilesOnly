@@ -21,7 +21,25 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Best_Practice_Service_Dashboards/ARDashboard1</members>
+        <members>Best_Practice_Service_Dashboards/Agent_Supervisor_Overview</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>ABI/A_B_540x540_jpg.jpg</members>
+        <members>ABI/A_C_540x540_jpg.jpg</members>
+        <name>Document</name>
+    </types>
+    <types>
         <members>Emp__c.Emp</members>
         <name>DuplicateRule</name>
+    </types>
+    <types>
+        <members>Ap_PF_test1</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>reportsTest2Folder/testinforeport1</members>
+        <name>Report</name>
     </types>
 </Package>
