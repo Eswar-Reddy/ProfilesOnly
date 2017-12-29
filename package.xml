@@ -18,6 +18,7 @@
     </types>
     <types>
         <members>College__c</members>
+        <members>Emp__c</members>
         <name>CustomObject</name>
     </types>
     <types>
