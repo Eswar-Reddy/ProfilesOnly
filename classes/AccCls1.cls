@@ -1,4 +1,4 @@
 public class AccCls1{
 
-//cmt deleted.
+//deleted all comments
 }
